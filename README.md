@@ -1,1 +1,1 @@
-# courses-discrete-mathematics
+# Foundations of Data Science
